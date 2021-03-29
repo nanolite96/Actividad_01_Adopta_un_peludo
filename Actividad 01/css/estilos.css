@@ -1,0 +1,44 @@
+* {
+    font-family: sans-serif;
+    padding: 4px;
+}
+.Cuadro1
+{
+    float: right;
+    background-color: red;
+    text-align: center;
+    width: 80%;
+}
+.Cuadro2
+{
+    float: right;
+    background-color: lightblue;
+    text-align: center;
+    width: 80%;
+}
+.Cuadro3
+{
+    float: right;
+    background-color: green;
+    width: 80%;
+}
+.Cuadro4
+{
+    float: right;
+    background-color: pink;
+    width: 80%; 
+}
+.Menu
+{
+    float: left;
+    background-color: khaki;
+    width: 18.9%;
+}
+.Menu a
+{
+    text-decoration: none
+}
+.Menu a:hover
+{
+    color: red;
+}
